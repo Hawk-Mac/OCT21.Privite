@@ -1,2 +1,2 @@
-# OCT21.Privite
+# OCT21.Private
 for a in class assignment
